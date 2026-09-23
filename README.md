@@ -161,10 +161,11 @@ Focuses on customer contribution and revenue opportunities.
 
 
 3. Fleet Stats
+Analyzes fleet productivity and asset utilization.
 
 <img width="578" height="327" alt="Fleet Anal" src="https://github.com/user-attachments/assets/89f603d5-3d88-45bb-b20e-411c8b215403" />
 
-Analyzes fleet productivity and asset utilization.
+
 
 4. Driver Performance
 
